@@ -1,6 +1,6 @@
 Hi there! I'm a note in your vault.
 
-olá, sou uma nota 
+[[A aparência e o comportamento do Buddha]]
 
 At the same time, I'm also just a Markdown file sitting on your hard disk. It's all in plain text, so you don't need to worry about losing me in case [[Obsidian]] disappears one day.
 
